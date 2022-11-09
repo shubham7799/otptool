@@ -1,7 +1,6 @@
 import React from 'react'
 import Directory from './../directory.json'
 import {Link, useNavigate, useParams} from 'react-router-dom';
-import sendM from './sendsms'
 
 function Contact() {
 
